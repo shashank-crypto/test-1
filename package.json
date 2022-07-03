@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.15.2",
-    "bluebird": "^2.0.7",
+    "axios": "0.27.2",
+    "bluebird": "3.7.2",
     "body-parser": "^1.8.3",
     "express": "^2.4.5",
-    "istanbul": "^0.1.31",
+    "istanbul": "0.4.5",
     "mongoose": "^4.5.8"
   }
 }
